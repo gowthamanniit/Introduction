@@ -1,0 +1,118 @@
+
+	JAVA INTRODUCTION:
+	=================
+
+	1991 first introduced by sun micro system.
+
+	james gosling..
+
+	java starting name: oak's languages.
+
+	1995 renamed java.
+
+	java is a platform independent lanagauge. ( all os support)
+
+	JVM - Java Virtual Machine.
+	
+		(source code --> .java files) --> convert .class file(byte code) --> output.
+
+
+	java is a both compiler and interpreter.
+
+	comiple: javac filename.java
+
+	run: java classname
+
+	java extension: .java
+
+	java is a case sensitive lanague.
+
+	java is a strongly type checked language.
+		short v=32767;
+
+	java default datatype: String (run time + textbox)
+
+	java concat string: +
+
+	java 90% fully oops oriented (int,float,char)
+	
+	now handled java Oracle Corporation.
+
+	java has two parts:
+
+		1.console application (dos (c,c++))
+		2.window based GUI application(textbox,label,button,.....)
+	
+	how to find java installed bin path?
+		
+	C:\Program Files\Java\jdk1.7.0_25\bin
+
+	
+
+	
+	simple program structure:
+	==================
+
+	access specifier+modifier class classname
+	{
+		access speifier+modifer variable declaration;
+		access sepecifer+modifier returntype methodName()    // c++ functionname or java methodname
+			{
+
+
+
+			}
+			.............
+		public classname()
+		{
+			// initialize variable when user create object.			
+		}
+		public classname(datatype arg)
+		{
+			// initialize variable when user create object.			
+		}
+
+		public static void main(String args[])
+		{
+			classname objectname=new classname(); // constuctor call
+			classname objectname=new classname(value); // arg constuctor call
+			objectname.methodname();  // method access
+			objectname.variablename=value;  // variable access			
+		}
+	}
+
+			
+	access speifier:	private 	public	protected 	   default(not mention)	
+	access modifer:	static 	final	abstract
+	class:		keyword
+	classname:	userDefine  (fisrt char should be caps)
+	variable:		int a,b,c ;  public/protected/priavate/static/final  int d=20;
+			ex:
+				String firstName;
+				String lastName;
+
+	method declaration:	public/private/protected//static/final/abstract   void display()  // firstchar shoule be small then followed 			char caps
+				ex:		
+					void getData();
+					void displayData();
+			abstract void disp();
+	objectname : 	userdefined (same rule as variable/method name)
+	
+	membership operator: dot(.) (access class member)
+
+					
+				
+		simple program:
+		===========
+
+		notepad & cmd:
+
+			ex:
+					d:\gowthaman> set path="c:/program files/java/jdk1.7.0_25/bin";
+					d:\gowthaman> javac filename.java
+					d:\gowthaman> java classname
+			
+		eclipse:
+			ctrl+f11
+		
+			
