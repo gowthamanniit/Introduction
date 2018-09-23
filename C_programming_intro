@@ -1,0 +1,111 @@
+C Language features:
+====================
+
+	In 1969 first introduced B-Language by kenThompson.
+	B-Langauge is a interpreter.so very slow.
+	(line by line error check. show only one error)
+
+	in 1972 introduced C-language by Dennis ritche modified B language.
+
+	C is a Compiler. (Whole program error check. show all the error)
+
+
+	c is high level programming language.
+
+	high level = user understand ( a-z)
+
+		1) filename.c
+
+	low level = machine understand( binary digits 0's and 1's)
+
+		2) filename.obj
+
+		3) filename.exe	
+
+	c is a case sensitive langague.
+	(do not change uppercase/lowercase char's in coding)
+
+	c extension: .c	
+	(filename max length should be 8 char's)
+
+	c is a structure oriented programming.
+	(order , common format)
+
+	software:
+		c:/tc/bin
+			tc.exe (or) desktop Tubo c7
+	
+	simple c program: (format 1)
+	==============		
+		#include<stdio.h>  // stdio: standard input output
+		void main()      // only one main function per pgm. 			
+		{	       // open main function	
+		printf(".....");   // display info. to output screen.			
+			
+		}	       // close main function
+			       // ;(semi colon) statment finished or end line	
+		
+	// single comment line (do not show error)
+	
+	/*
+		.......
+		.........
+		multi comment line 
+	*/
+
+	software full screen/normal: alt+enter.
+
+	save: f2
+	save as: file-->save as
+	compile: alt + f9 or compile menu -->compile
+	run        : ctrl + f9 or Run menu --> run
+	output screen: alt+f5 or window menu-->user screen.
+	
+	new window: file-->new
+	open:f3 or file-->open
+	
+	c program code line by line delete: ctrl+y
+
+	c program close: alt+f3
+	
+	c software close: alt+x or file-->quit.
+	
+	simple program format 2:
+	=====================
+
+	#include<stdio.h>
+	#include<conio.h> // console input output:  clrscr, getch (only output screen)
+	void main()
+	{
+		clrscr();  // previous output clear.
+		printf("....");
+		printf("....");		
+		getch();  // wait output for read one char from keyboard.		
+	}
+
+	alt+f9 
+	cltr+f9
+	(no need to press alt+f5)
+
+	simple program 3:
+	===============
+	#include<stdio.h>
+	#include<conio.h> // console input output:  clrscr, getch (only output screen)
+	void main()
+	{
+		clrscr();  // previous output clear.
+		printf("\n welcome \t to c language");
+		printf("c is a high\b level\0 programming language");		
+		getch();  // wait output for read one char from keyboard.		
+	}
+	
+	//Escape Sequence
+
+	\n	- cursor move to new line or next line 
+	\t	- cursor move to .5 inches space
+	\b	- backspace
+	\0	- null char
+	\"	- double quotes 
+	
+	
+	
