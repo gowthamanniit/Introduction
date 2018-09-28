@@ -1,0 +1,88 @@
+	
+	c++:
+	
+	in 1980's first introduced by bjarne strostrup.
+
+	c++ is a oops langauge.
+
+	oops: object oriented programming structure.
+
+	c++ is a compiler(whole program error check).
+
+	c++ is a case sensitive langauge.
+
+	c++ extension: .cpp
+
+	c++ bottom to top approach.
+
+	c++ variable declaration anywhere (before statement).
+
+                  c++ starting name c with class.
+	
+	oops:
+
+		class
+		object
+		abstraction
+		encapsulation
+		constructor
+		destructor
+		polymorphism
+		access specifier
+		inheritance
+		friend function
+		virtural function
+		scope resoultion operator
+		operator overloading
+		static variable , function , class.
+	
+	
+	class:
+		
+		class is a hierarchy.
+		class is a user defined data type. it is used to
+		access member variable and member function.
+
+	syntax:
+
+		class classname
+		{
+			access specifier:		
+			member variable;
+			member function;
+		};			
+
+
+	access specifier:
+	==============
+		1. private : the members only use with in class.
+		2. public  : any where
+		3. protected: base class and derive class.
+
+
+	ex:
+
+		class student
+		{
+			private:
+			int a,b;
+			public:
+			void functionname()
+			{
+			 // body of the function			
+			}
+		};
+		
+	object:
+		instance of the class.
+
+	ex:
+		void main()
+		{
+			classname objectname;
+			// accessing class member
+			objectname.varaiable;
+			objectname.functionname();
+
+		}
+			
