@@ -1,0 +1,47 @@
+
+
+https://4programmer.com/629/PHP-Full-Tutorials-in-Tamil
+
+
+php & mysql:
+
+
+	in 2004 first implemented Rasmus lerdorf.
+
+	open source software.(free license)
+
+	php expansion:  hypertext preprocessor.
+
+	php : front end tool (manipulation)
+	mysql: back end tool (storage - database)
+
+	extension: .php
+	
+	case sensitive langauge.
+	
+	joining operator:    .
+
+	software:
+		xamp, wamp
+
+	folder creation:
+		c:/xampp/htdocs/fathima/  filename.php
+
+	run:
+		any webbrowser:
+
+		address bar:
+		
+		http://localhost/fathima/filename.php
+
+
+	tag:
+		<?php
+
+			...................
+	
+		?>			
+	
+
+		
+	
