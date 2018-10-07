@@ -1,0 +1,51 @@
+
+	php:
+	====
+
+		- hyper text preprocessor.
+
+		- use: to crete web page application.
+
+		- server side scripting langauge.
+
+		- server side (it is used to connect more database).
+
+		- open source software (no license)
+
+		- developed by :  rasmus lerdrof.
+
+		- extension: .php
+    -php is a interpreter. (line by line error check. show only one error)
+		- php case sensitive language.
+    
+    - php is a front end tool (manipulation work)
+    
+    - php is also supported oops
+    
+    - back end tool "mysql" inbuilt.   
+
+		- software:
+			xampp,wamp,lamp.
+
+		-code: any text editor
+			notepad,sublimetext,.....
+
+		-output:
+			any web browser
+
+			- IE,Google chrome,......
+		
+		procedure: (how to run simple php program)
+		==========================================
+
+		step 1:	xampp control panel open.
+		step 2: apache start.
+		step 3: open notepad or sublime
+		step 4: write simple program.
+			<?php
+				echo "welcome to php";
+			?>
+		step 5: save only: c:/xampp/htdocs/yourfolder/filename.php
+
+		step 6:open browser :
+			address bar(type):http://localhost/yourfolder/filename.php
