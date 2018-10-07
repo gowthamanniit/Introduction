@@ -15,7 +15,10 @@
 		- developed by :  rasmus lerdrof.
 
 		- extension: .php
-    -php is a interpreter. (line by line error check. show only one error)
+		
+		- joining operator: .
+		
+    		-php is a interpreter. (line by line error check. show only one error)
 		- php case sensitive language.
     
     - php is a front end tool (manipulation work)
