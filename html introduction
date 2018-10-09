@@ -1,0 +1,41 @@
+
+	html:
+	====
+		hyper text markup language
+
+		invented by tim berners lee
+		
+		invented year: 1990
+
+		purpose:	web page design purpose only.
+
+		html case not sensitve langauge.
+
+		html extension: .html
+
+		html coding part: notepad,sublime,dreamviewer
+
+		advantage: do not show any error.
+
+		output: any web browser:
+			1) Internet explorer
+			2) Google Chrome
+			3) firefox
+			4) safari
+			5) opera
+			6)netscape navigator
+
+		html has two parts:
+		================
+
+				1) header section
+					-title
+					-image icon
+					-java script 
+				2) body section
+					-use html tags
+					<body>
+					..........
+
+					</body>
+			
