@@ -1,0 +1,96 @@
+
+	Microsoft-WORD:
+	===============
+		
+		use:
+			documentation purpose.
+		
+		documentation:
+			- letter
+			- book
+			- resume
+			- newspaper
+			- mailmerge
+			- label
+			- question paper
+			- bond					
+
+	how to open microsoft word?
+	===========================		
+			1) start->programs -->,microsoft office -->microsoft word.
+			2) start->run->winword-->ok.
+
+	word parts:
+	==========
+		 1) title
+		 2) menu
+		 3) menu items
+		 4) Ruler (size)
+		 5) Scrollbar(vertical,horizontal)
+		 6) layout(typing area)
+		 7) status bar	
+	
+	word shortcut:
+	=============
+	
+	save as : f12
+	open: ctrl+o
+	new window : ctrl+n
+	close window: alt +f4 
+	
+	left align : ctrl + l
+	right align: ctrl + r
+	center align: ctrl+e
+	justify align: ctrl + j
+	
+	bold: ctrl + b
+	italic: ctrl + i
+	underline: ctrl + u
+	
+	full caps/first caps/all small : shift+f3
+	
+	font size increase: ctrl+] ( one by one increment)
+	font size decrease: ctrl+[
+	
+			  : ctrl+shift+> (already mentioned size increment)
+			    ctrl+shift+<
+
+	line space:
+			ctrl+0,1,2,5
+
+	select all: ctrl+a
+	
+	select particular text: shift+ arrow key
+
+	unselect text: arrow key	
+
+	cut: ctrl+ x or shift+delte
+	
+	copy: ctrl + c or ctrl + insert
+
+	paste: ctrl + v or shift+ insert
+
+
+	move cursor first char of each word: ctrl + right/left arrow.
+
+
+	move cursor each paragraph of first char: ctrl+ up/down arrow.
+
+	move cursor next page: (page break): ctrl + enter 
+		use: second page char don't move.
+
+	find: ctrl + f
+	
+	replace: ctrl+ h
+
+	menu shortcut: f10
+
+	subscript: h2so4 (ctrl + =)
+	superscript: a2+b2+2ab (ctrl+ shift+ +)		
+
+		
+			
+	
+	
+	
+			
