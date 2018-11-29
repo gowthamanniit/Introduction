@@ -1,0 +1,361 @@
+ 	CORELDRAW:
+	===========
+	IN 1989 FIRST INTRODUCED BY COREL CORPORATION.
+	 Michel Bouillon and Pat Beirne.
+
+
+	USE: DRAWING PURPOSE
+	EG:
+		- logo creation
+		- marriage invitation                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+		- visiting card
+		- monthly calendar
+		- poster
+		- notice
+		- sticker (number plate,photo insert)
+		-textile design
+	how to open corel draw?
+		- start --> run --> coreldrw
+		or
+		-start --> all programs -->
+		        -->coreldraw graphics suite x3
+		      --> corel draw x3
+	extension:
+		.cdr	
+	parts of coreldraw:
+	==============		
+		title bar
+		menu
+		menu items
+		tools
+		ruler
+		property bar
+		working area	
+		status bar
+		transformation (alt+f7)
+		     -->position
+		      -->rotation 
+		      -->scale & mirror
+		      --> size
+		      --> skew
+	tools:
+	====
+	1) pick tool:
+		move              (first click)
+		-size alteration (second click)
+			rotation
+			skew
+	2) shape tool (f10)
+		- shape tool	 --> shape change
+			eg:
+			polygon to star
+			polygon tool --> sun tv logo
+
+  		step 1: draw polygon with 12 sides
+		step 2: click shape tool
+		step 3: size alter with mouse
+		step 4: add node click in property bar
+		step 5: size alter with mosue
+		- smudge tool
+			--> elastic type
+		-roughen brush
+			--> zig zag
+		- free transform	
+			--> 45 degree rotation
+			--> 90 degree rotation
+			........	
+	3) crop tool:
+
+	-  only take selected part of shape using double click.
+
+	knife tool
+	=======
+		it is used to cut the shape in two ways.
+	way 1: stright line
+	way2 : pencil type
+		note: convert single shape into more shape.
+	eraser tool:
+	========
+		it is used to erase the shape in two ways
+	-st.line
+	-pencil type (press)
+		note: do not divide more parts of shape.
+	virtual segment delete:
+	=================
+		it is used to delete particular parts in single 	shape.
+	eg: meet starting and ending point to other shape.
+	
+	eg: flower draw:
+	============
+	1) circle draw
+	2) alt + f7(transformation)  - position (right side)
+			       - select all
+			       - rotation ( 90 degree)
+	3) smart fill tool : color fill ( use f11 - multicolor)
+	4)		      - rotation 45 degree
+	5) ctrl + a --> ctrl + g
+	6) file --> export -->jpg format -->save ,ok.
+
+					
+
+	zoom tool:
+	=======
+                    normal click: zoom in	
+	using shift key + click : zoom out
+	hand tool:
+	=======
+		moving
+	free hand tool:
+	==========
+    --> drawing purpose same as pencil(press mouse)
+    --> draw st. line(step 1: mouse click one point
+	           step 2: do not press mouse move next point 
+                              step 3: color fill.
+		click)
+
+	bezier tool:
+	=======
+		--> line bend (curve)
+		---> use polygon st.line
+		step 1: mouse click any position
+		step 2: click another position do not release 		mouse with drag.
+		step 3: color
+		
+	artist media tool:
+	===========
+		--> ready made design
+	
+	pen tool:
+	======
+		--> st.line (polygon) + bend line
+
+	polyline tool:
+	=========
+		--> multiline + pencil combine
+		(with continous press mouse)
+		
+	3 ponit curve tool:
+	=============
+		line bend  with single line only draw
+
+	interactive connection tool:
+	===================
+		 steps
+	dimension tool:
+	===========
+		measure 
+	smart fill tool:
+	==========
+		it is used to fill color single or multi with outline.
+		
+		use f11 --> multi color. (fountain fill)
+
+	smart drawing tool:
+	==============
+		same as pencil but advanced 
+
+	rectangle tool:
+	===========
+		lenght x breath
+	3 point rectangle tool
+	==============
+	step 1: first draw line
+	step 2: move mouse without press
+	
+	ellipse tool
+	========
+		circle,ellipse
+	3 point ellipse tool:
+	==============
+		same as 3 point rectangle
+	polygon tool:
+	=========
+		multi line join more sides
+	star tool:
+	======
+		same as polygon tools
+		use shape tool
+
+	complext star tool:
+	===============
+		joined 3 triagnle
+		use shape tool to extra modifiction
+	graph paper tool:
+	============
+		collections of rows & column 
+	spiral tool:
+	=======
+		continous circle with joined one.
+		or spring
+	step 1:
+		draw spiral tool
+	step 2:
+		pick tool click 
+	step 3: hair line --> none
+	step 4: text menu --> fit text to path click.
+	step 5: type text with your size and color
+
+	Basic shapes:
+	=========
+
+	dr.symbol, heart symbol,etc,....
+	
+	arrow shapes:
+	==========
+		arrow
+		use to : way
+	flowchart shapes:
+	============
+		use programming language shapes
+		eg:(input,output,loop,.....)
+	banner shapes:
+	==========
+		readymade design
+	callout shapes:
+	===========
+		story writter.
+	text tool:
+	========
+		it is used to type the text in various way.
+
+	interactive blend tool:
+	===============
+	connect two shapes.
+	
+	interactive contour tool:
+	================
+		border set 
+	
+	step 1: rectangle draw
+	step 2: interactive contour tool click
+	step 3: draw on rectangle
+	
+	interactive distortion tool:
+	==================
+		corner side change round shape  with middle point draw.
+	
+	interactive drop shadow tool:
+	====================
+	 
+	shadow photo or shapes
+	
+	interactive envelop tool:
+	=================
+
+	fold shapes
+	
+	interactive excrude tool:
+	=================
+	
+	perspective view (first big view at end small view)
+	
+	interactive transparancy tool:
+	====================
+	color value decrease or increase.
+
+	eye dropper tool:
+	===========
+		color select 
+	eg: face color take accurately
+
+	paint bucket tool:
+	===========
+		color fill
+	outline pen dialog tool:
+	================
+		hair line (outline )
+		use --> color,style,size
+	outline color dialog tool:
+	=================
+		outline color only change
+	
+	no outline:
+	========
+		outline hide
+	hairline outline:
+	==========
+		outline show
+	color docker window:
+	===============
+	color fill (cmyk,rgb format) using eye dropper.
+
+	color fill dialog
+	===========
+		color fill inside shape (no outline)
+
+	fountain fill dialog:
+	=============
+		multi color (f11)
+
+	pattern fill dialog:
+	=============
+		ready made pattern
+	
+	texture fill dialog:
+	=============
+		ready made pattern
+	post script texture:
+	============
+		ready made pattern	
+	no fill:
+	=====
+		clear ready made pattern
+	color docker window:
+	===============
+		cmyk -- format color.
+
+	interactive fill tool:
+	=============
+		ready made pattern size change,rotation.
+
+	interactive mess fill tool:
+	================
+		wrap model ( 9 box ) after drag the readymade pattern
+
+	Shortcut keys:
+	===========
+	
+	full screen/normal screen : f9
+	tranformation: alt+f7
+	zoom out: f3
+	zoom in: f4
+	screen size fit: shift+f4
+	group: ctrl + g
+	ungroup: ctrl + u
+	break aprt: ctrl + k
+	middle position: p
+	pick tool: space
+	multicolor : f11
+	all select:	ctrl+a 
+	symbol: ctrl+ f11
+  back : ctrl+end
+  front: contrl+ home
+
+
+
+	
+		
+		
+
+	
+		
+	
+	
+	
+
+	
+		
+		
+
+	
+		
+		
+	
+
+	
+		
+
+	
+			
+			
+	
