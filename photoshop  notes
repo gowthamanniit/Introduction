@@ -6,6 +6,9 @@
 		
 		
 		use:
+		It uses a layer-based editing system that enables image creation and altering with 
+		multiple overlays that support transparency.
+		
 			photo edit
 			flex
 			visiting card
