@@ -2,6 +2,9 @@
 	photoshop
 	=========
 		
+		Photoshop was developed in 1987 by the American brothers Thomas and John Knoll,
+		
+		
 		use:
 			photo edit
 			flex
@@ -21,7 +24,7 @@
 	size:
 			maxi size:   6 x 4 inches
 
-			passport size: 3.5 cm (w) x 4.5 cm (h)
+			passport size(indian): 3.5 cm (w) x 4.5 cm (h)
 			
 			stamp size : 2.0 cm (w) x 2.5 cm(h)
 
@@ -39,7 +42,7 @@
 		1 inches  =  2.54 cm
 		1 feet  =  30.48 cm
 		1 meter = 100 cm
-		
+		1 cm   = 10 mm
 
 		8 bits = 1 byte
 		1024 bytes = 1 kilo bytes
@@ -71,6 +74,16 @@
 			zoom out: ctlr -
 
 			current window close : ctrl + w / ctrl + f4
+			
+			black and white : ctrl +shift+ u
+			
+			brightness: ctrl + m
+			
+			color balance : ctrl + b
+			
+			stroke : alt + e + s
+			
+			
 	
 			
 		
