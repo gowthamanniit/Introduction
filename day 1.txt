@@ -1,0 +1,84 @@
+	
+	photoshop
+	=========
+		
+		use:
+			photo edit
+			flex
+			visiting card
+			id card
+			web desingn
+
+	parts of photoshop:
+			menu
+			menu items
+			property bar
+			toolbox
+			layer (f7)
+			working window
+			ruler (ctrl+r)
+	
+	size:
+			maxi size:   6 x 4 inches
+
+			passport size: 3.5 cm (w) x 4.5 cm (h)
+			
+			stamp size : 2.0 cm (w) x 2.5 cm(h)
+
+			A4:  21 cm (w)x 29.7 cm (h) - portrait
+			
+			A3: 42 cm(w) x 29.7 cm(h) 
+	
+			A5:   21 cm(w) x 14.8 cm(h)
+
+			visiting card: 2 x 3.5 inches
+
+			id card : 2.125 x 3.370 inches
+
+		
+		1 inches  =  2.54 cm
+		1 feet  =  30.48 cm
+		1 meter = 100 cm
+		
+
+		8 bits = 1 byte
+		1024 bytes = 1 kilo bytes
+		1024 kilo bytes =  1 mb
+		1024 mb	= 1 gb
+		1024 gb = 1 tb
+
+		
+		pixel:  one dot 
+
+
+		shortcut keys:
+		============
+			
+			transform : ctrl + t (increase,decrease,rotate,wrap models)
+					(use shift key when size impl)
+
+			deselect :    ctrl+ d
+		
+			full select: ctrl + a
+	
+			switch b/w two window: ctrl + tab		
+		
+			full/normal/with background black : f
+
+			screen size fit window: ctrl + 0
+	
+			zoom in : ctrl  + 
+			zoom out: ctlr -
+
+			current window close : ctrl + w / ctrl + f4
+	
+			
+		
+			
+
+
+		
+		           				
+	
+			
+			
