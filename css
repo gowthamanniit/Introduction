@@ -1,0 +1,101 @@
+
+	CSS:
+	cascading style sheet
+
+	use: web page excellent design in easy way
+	
+	invented by: W3C company. (world wide web consoritum)
+
+	year: 1996(level 1 dec 17)
+
+	CSS created by Hakon Wium Lie and Bert Bos.
+
+
+	three types of css:
+		
+	1) inline css   - with in a tag 
+	2) internal css - head tag + whole single html program 
+	3) external css - head tag + one or more html programs
+	
+	syntax:
+
+	1) inline:
+
+	<font style="color:red;font-size:19pt"> i am fareeth </font>
+
+	2) internal css:
+
+	<html>
+	<head>
+		<style type="text/css">
+		h1
+		{
+			size:12px;
+			font-color:red;
+			font-family:arial;
+			border: 2px solid red;
+		}
+		.var1
+		{
+
+		}
+		#var2
+		{
+
+		}
+		tag1 tag2
+		{
+
+
+		}
+		tag:hover
+		{
+
+		}		
+		</style>
+	</head>
+	<body>
+		<h1> .......</h1>
+		<font>
+		<div class="var1">
+		.............
+		.............
+		</div>			
+		<div id="var2">		
+		................
+		.................
+		</div>
+	</body>
+	</html>
+
+3) external css:
+
+	fareeth
+	{
+		.....
+		......
+	}		
+save: filename.css
+
+html program:
+============
+	<html>
+	<head>
+	<link rel="stylesheet" type="text/css" href="fareeth.css"></link>
+
+	</head>
+	<body>
+	<div id="fareeth">
+
+		.............
+	</div>
+	
+	</body>
+	</html>
+	
+	
+	
+
+	
+
+	
