@@ -88,6 +88,28 @@
 			
 			stroke : alt + e + s
 			
+
+slice tool & slice select tool:
+
+	use: to open selected any web pages.
+
+step 1: image open
+step 2: select your area of image using slice tool
+step 3: click slice select tool, selected area click.
+step 4: goto slice option in property bar(dairy)
+step 5: url : website type 
+	target: _blank (new tab)
+		_self (same page)
+	message text: some info about website
+step 6: ctrl+alt+shift+s
+step 7: type: jpeg
+step 8: save
+	filename :filename.html
+	type: html and images
+	    :default setting
+	    : all slice
+
+			
 			
 	
 			
