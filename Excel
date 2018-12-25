@@ -1,0 +1,45 @@
+Excel or spread sheet
+=====================
+
+use:
+    formula calcuation
+    chart
+    filter
+  
+invented by microsoft.
+
+excel extension: .xlsx
+
+how to open excel ?
+run -->excel -->ok.
+
+parts of excel:
+    *) title bar
+    *) menu 
+    *) menu items or property
+    *) namebox
+    *) formula bar
+    *) cell
+    *) row header (1 2 3 4 5 ............1048576)
+    *) column header (a b c  xfd 16384 columns)
+    *) scroll bar (vertical,horizontal)
+    *) status (zoom,normal ,page break)
+    *) print preview (ctrl + f2)
+ 
+ formula:
+ 
+  sum:
+  
+    =a1+b1
+    
+   or
+   
+   sum(a1,b1);
+    
+    or
+    sum(a1:b1);
+    
+    or
+    alt +=
+    
+    
