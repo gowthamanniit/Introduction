@@ -23,6 +23,323 @@ website:(latest 3.7.1 nov-18)
 	https://www.python.org/downloads/
 
 
+//==================================================anupriyan livewire ==========================================
+Python:
+python too one of a popular programing language
+guido van rossum ----1991
+
+python prg is an multi-paradigm programming language
+
+python case sensitive language.
+
+python extension: .py
+
+
+support some recent technology:
+
+1.cloud computing---iaas,paas,
+2.networking
+3.big data
+4.hacking tools
+
+
+use:
+1.web development
+2.software development
+3.GUI--graphical user interface
+4.Games development
+5.Many app
+
+
+Advantage:
+1.python as simple syntax
+2.allow the developer to code with in a few lines
+3.python run as interpreter
+4.python is an object oriented language---
+5.debug faster
+6.python works on different platforms
+
+
+download python software:
+3.6
+
+open idle-----modes:
+
+1.shell mode:
+
+2.sourcemode:
+
+
+important features in python:
+
+1.high level prg lanuage
+2.simple
+3.open source
+4.GUI
+5.Large standard library
+6.object-oriented
+7.interpreter
+8.platform independent
+
+
+errors:
+1.name error
+2.indent error
+3.type error
+4.syntax error
+5.value error
+6.zerodivision error
+
+int a=10;
+int b=20:
+
+python------define
+a=10
+b=20
+char--collection of char is a string,,
+
+
+
+
+
+Basic Building blocks:
+
+
+1.identifier:
+name given given to var, fun,  class
+
+eg:salary=20,000
+a=20,000
+
+2.variables:
+x=5
+y="john"
+print(x)
+print(y)
+
+3.numeric values:
+int, float, str,char
+
+a=10
+
+b=1.1
+
+c="welcome"
+
+d="s"
+
+print(a)
+print(b)
+print(c)
+......
+
+operators:
+
+1.Arc opr
+Add,sub,div,mul,,modules,,floor div, exponential
+
+x=5
+y=3
+print(x+y) or z=x+y print(z)
+
+
+sub:
+
+x=5
+y=3
+print(x-y)
+2
+
+
+mul:
+
+3*2
+4*3
+
+
+div:
+
+4/2
+5/3
+5/2
+
+mod:
+
+x=45
+y=5
+x%y
+
+
+floor div:
+5//2==2.5
+
+expo:
+
+x=10
+y=20
+
+x**y
+
+
+
+
+
+
+2.Rel opr:
+==     x=10
+y=20
+
+x==y
+
+!=------x=10, y=10
+
+
+>,>=
+
+x=2
+y=4
+x>y--true
+
+<,<=
+
+3.log ope--
+
+And---
+
+1  0   1  0
+0  1   1  1
+0  0   1  0
+
+
+
+
+
+
+
+Or---
+
+1  0  0  1
+
+0  1  0  1
+1  1  0  1
+
+
+
+
+
+
+
+Not--
+
+1  0 
+
+1  0
+1   1
+
+
+
+
+4.Bitwise
+
+Bitwise and
+
+Bitwise or
+
+
+
+
+5.special opr
+  (i)-identity oper
+      used to find value is similar or not
+     
+ is
+is not
+
+
+
+
+
+
+  (ii)-membership operator
+
+  used to find whether value is valid or not
+
+in
+not in
+
+
+
+
+Control statements:
+
+decision making sta...
+
+1.simple if
+2.if-else
+3.nested -if
+4.elif statement
+
+
+simple if:
+
+if cond true it will print the statement
+
+if-else:
+
+if the cond is true it will print valid user or else it will print invalid user
+
+
+nested if:
+if
+
+
+   if ()
+      pr
+
+pr
+
+
+
+elif:
+
+
+short for if-else
+it allow to check the multiple expression
+
+
+conditional loop statement:
+while loop:
+
+break:
+
+continue:
+
+for loop
+
+do-while:
+
+nested -loop:
+
+
+
+
+
+while loop:
+execute statement untill condition is true:
+
+
+break and continue:
+
+
+
+
+
+
+
+
+
+
+
 
 
 
