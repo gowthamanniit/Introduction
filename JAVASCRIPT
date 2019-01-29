@@ -1,0 +1,49 @@
+
+	JAVA SCRIPT:
+	============
+	
+		* in 1995 first introduced by Brendan Eich.
+
+		* javascript is a client side scripting language.
+
+		 (client side - do not connect database)
+
+		* starting name : livescript
+		
+		* developed ECMAscript-262(organization approved by ISO)
+
+		* only netscape navigator 2.0 first worked.
+
+		* all browsers worked from 1996. 
+	
+		* javascript is a case sensitive language.
+
+		* javascript extension: .js 
+		
+		* main use: directly interact with html codes.
+
+		* java and javascript are different
+	
+		* joining operator + or concatenation operator
+
+		* javascript is a interpreter(line by line error check)
+		
+		
+
+		
+		general format:
+		===============
+
+		<html>
+		<head>
+			<script type="text/javascript">
+			............
+			</script>
+		</head>
+		<body>
+		..............
+		</body>
+		</html>		
+		
+
+	
