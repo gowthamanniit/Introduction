@@ -83,12 +83,14 @@ important features in python:
 
 
 errors:
-1.name error
-2.indent error
-3.type error
+1.name error  -- undefined var
+2.indent error -- 4 space
+3.type error -- str + int
 4.syntax error
-5.value error
+5.value error -- use input
 6.zerodivision error
+7.index error
+
 
 int a=10;
 int b=20:
@@ -161,7 +163,7 @@ div:
 
 4/2
 5/3
-5/2
+5/2 = 2.5
 
 mod:
 
@@ -171,7 +173,7 @@ x%y
 
 
 floor div:
-5//2==2.5
+5//2==2
 
 expo:
 
@@ -242,11 +244,31 @@ Not--
 4.Bitwise
 
 Bitwise and
+x=10  0000 1010
+y=4   0000 0100
 
-Bitwise or
+&	Bitwise AND	x& y = 0 (0000 0000)
+|	Bitwise OR	x | y = 14 (0000 1110)
+~	Bitwise NOT	~x = -11 (1111 0101)
+^	Bitwise XOR	x ^ y = 14 (0000 1110)
+>>	Bitwise right shift	x>> 2 = 2 (0000 0010)
+<<	Bitwise left shift	x<< 2 = 40 (0010 1000)
 
-
-
+Assignment operators in Python
+Operator	Example	Equivatent to
+=	x = 5	x = 5
++=	x += 5	x = x + 5
+-=	x -= 5	x = x - 5
+*=	x *= 5	x = x * 5
+/=	x /= 5	x = x / 5
+%=	x %= 5	x = x % 5
+//=	x //= 5	x = x // 5
+**=	x **= 5	x = x ** 5
+&=	x &= 5	x = x & 5
+|=	x |= 5	x = x | 5
+^=	x ^= 5	x = x ^ 5
+>>=	x >>= 5	x = x >> 5
+<<=	x <<= 5	x = x << 5
 
 5.special opr
   (i)-identity oper
@@ -255,6 +277,21 @@ Bitwise or
  is
 is not
 
+x1 = 5
+y1 = 5
+x2 = 'Hello'
+y2 = 'Hello'
+x3 = [1,2,3]
+y3 = [1,2,3]
+
+# Output: False
+print(x1 is not y1)
+
+# Output: True
+print(x2 is y2)
+
+# Output: False
+print(x3 is y3)
 
 
 
@@ -267,6 +304,20 @@ is not
 in
 not in
 
+x = 'Hello world'
+y = {1:'a',2:'b'}
+
+# Output: True
+print('H' in x)
+
+# Output: True
+print('hello' not in x)
+
+# Output: True
+print(1 in y)
+
+# Output: False
+print('a' in y)
 
 
 
