@@ -1,0 +1,44 @@
+Servlet is a one of the browser based web application.
+
+Servlets are the Java programs that run on the Java-enabled web server or application server.
+
+Servlet is a technology which is used to create a web application.
+
+Servlet is an API that provides many interfaces and classes including documentation.
+
+Servlet is used to create dynamic web application.
+
+
+
+
+1) web browser:    (client - users )
+    to send request.
+     ex:
+      http://localhsot/....
+2) web server      (apache tomcat server ) -->server should be on(green)
+    ex:
+      weblogic server
+      apache tomcat server
+      glassfish server
+3)  servlet communication
+
+4)  dynamic web app (produce)
+
+5)  webserver --> response to user
+
+6) result in web browser(client)
+
+
+As Servlet Technology uses Java, web applications made using Servlet are Secured, Scalable and Robust.
+
+
+Advantages of using Servlets
+================================
+Less response time because each request runs in a separate thread.
+Servlets are scalable.
+Servlets are robust and object oriented.
+Servlets are platform independent.
+
+
+
+
