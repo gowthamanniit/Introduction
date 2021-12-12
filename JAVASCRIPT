@@ -28,8 +28,11 @@
 
 		* javascript is a interpreter(line by line error check)
 		
+		* javascript is a loosly type checked language.
 		
-
+		var a=10;   		--> integer
+		var b=10.20;		--> float
+		var c="text@123";	--> String
 		
 		general format:
 		===============
