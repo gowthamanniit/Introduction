@@ -328,8 +328,11 @@
 	multicolor : f11
 	all select:	ctrl+a 
 	symbol: ctrl+ f11
-  back : ctrl+end
-  front: contrl+ home
+  	back : ctrl+end
+  	front: contrl+ home
+  	duplicate : ctrl + d
+	outline size & color: f12
+	
 
 
 
