@@ -332,6 +332,11 @@
   	front: contrl+ home
   	duplicate : ctrl + d
 	outline size & color: f12
+	export : ctrl + e (to save image format .jpg)
+	import : ctrl + i ( to place image)
+	visual basic (calender) : alt + f11
+	shape format : f10
+	
 	
 
 
