@@ -31,7 +31,12 @@
 				1) header section
 					-title
 					-image icon
+					- Base
+					- Meta
+					- css
 					-java script 
+					- jquery
+					- bootstrap cdn
 				2) body section
 					-use html tags
 					<body>
