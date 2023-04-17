@@ -41,6 +41,8 @@
 					-use html tags
 					<body>
 					..........
-
+					header,font,text,paragraph,images,list,table,link
+					form,frame,frameset,animation,audio,video
+					.........
 					</body>
 			
