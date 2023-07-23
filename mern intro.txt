@@ -1,0 +1,84 @@
+FULL STACK:
+===========
+	120 hrs:
+	
+	html: hyper text markup language
+		html invented by Tim Berners Lee
+		Father of internet
+		html has two parts:
+		1) header section
+			title
+			icon
+			base
+			meta
+			css link
+			javascript link
+			jquery cdn
+			font icon cdn
+			bootstrap link
+		2) body section
+			text
+			image
+			table
+			list
+			link
+			forms: textbox,label,button,choice,list 
+			combobox,reset,submit,radio,checkbox,
+			date,time,week,file,hidden,.....
+			frames -->divided inte web pages
+	css	
+			Cascading Style Sheet
+			use: excellent web page design
+			3 types:
+			1) inline css	  - single tag
+			2) internal css	  - single file
+			3) external css	  - multiple files
+			
+	javascript
+			invented by brenden eich	
+			purpose: programming
+			testing and validation
+			i.e c programming
+
+			case sensitive langugae.
+			; {}
+			
+			main role: directly interact with html 			code
+	jquery
+			javascript inbuilt library
+			developed by google
+			internet connection is must
+			
+	bootstrap
+			css library
+			inbuilt desin
+			internet connection is must
+			developed by twitter company
+			main role: all device support
+				mobile responseive views
+
+			
+	json
+			javascript object notation
+			light weight process
+			unstructure formate
+			key : value
+			ex:
+			var stud={
+				sno:1991,
+				sname:"......",
+				mark:99
+			}		
+
+	seo
+			Search Engine Optimization
+
+	MERN:
+	M-MongoDB	
+			database
+	E-Express jS
+			dynamic or runtime environment
+	R-React JS
+			front end view purpose
+	N-Node JS
+			backend server environment
