@@ -4,10 +4,6 @@
 	
 		* in 1995 first introduced by Brendan Eich.
 
-		* javascript is a client side scripting language.
-
-		 (client side - do not connect database)
-
 		* starting name : livescript
 		
 		* developed ECMAscript-262(organization approved by ISO)
