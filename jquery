@@ -1,0 +1,24 @@
+Introduction:
+  Developed by google
+
+jquery is a javascript inbuilt library.
+no need to write more coding.
+
+open google : jquery google cdn (content delivery network)
+
+click hosted libraries
+
+copy cdn link:
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+jquery syntax:
+
+$(document).ready(function(){
+  ...................
+});
+
+
+note:
+internet connection need to run jquery.
+
+don't give any event name(onclick,onchange,onfocus,onblue,....) in body section.
