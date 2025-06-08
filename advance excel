@@ -1,0 +1,125 @@
+normal excel vs Advanced Excel:
+===============================
+
+normal excel:
+=============
+	formula based
+	=cellname1+cellname2
+	
+	format: or extension: .xlsx
+
+advanced excel:
+================
+
+	programming based
+	GUI - Graphical user interface
+	    - Label,Button,Textbox,Choice,List,Image,...	
+	VBA - developed by microsoft
+
+	format: .xlsm (macro enabled workbook)
+
+
+excel parts:
+============
+	- title bar
+	- menus 	(file,insert,edit,view,formula,review,help)
+		(developer - menu advanced excel)
+	- property 
+	-namebox
+	-formula bar
+	-1 2 3 4 -----1048576 row header (horizontal)
+	-a b c d......aa >col header( vertical)
+			16384
+	- sheets bar
+	- status bar
+
+shortcut keys:
+==============
+
+select cells : shift+arrowkeys
+unselect cells: arrowkeys
+copy : ctrl+c
+paste: ctrl+v
+
+cut : ctrl+x
+
+full row select: shift+space
+full col select: ctrl+space
+
+col delete:
+		 ctrl + -
+row delete:	
+		ctrl -
+
+one sheet to another sheet: ctrl+page up/down
+
+new sheet creation: shift+f11
+
+full screen:alt+v+u
+
+propety bar hide/show: ctrl+f1
+
+vba code: alt+f11
+
+undo or previous one: ctrl+z (backward)
+
+redo or repeat: ctrl+y (forward)
+
+edit cell:f2
+
+select all:ctrl+a
+
+row insert: ctrl+shift++
+col insert: ,,
+
+hide column:  ctrl+0
+unhide column: alt+h   o u l 	or ctrl+shift+0
+
+hide row: ctrl+9
+unhide row: ctrl+shift+9
+
+wrap text: alt+enter
+formula down: ctrl+d
+
+formulas:
+==========
+1)vlookup
+2)hlookup
+3)textfunction
+  upper
+  lower
+  len
+  left
+  right
+  concate
+  mid
+  large
+  rank
+  if and or not
+  sum
+  sumif
+  count
+  countif
+  averge
+  abs
+  power
+  text - number to text    ex: =text(cellname,"0.00") (left align)
+
+  int  - text to number	   ex: =int(cellname)	(right align)
+	whole number
+
+  value- text to number	   ex: =value(cellname)	(right align)
+	floating number
+
+	
+
+
+
+
+
+
+
+
+
+
+
