@@ -2,3 +2,24 @@ Bootstrap was invented by Mark Otto and Jacob Thornton while they were working a
 Twitter. It was initially developed as an internal tool to ensure consistency in 
 the design and development of Twitter's various tools and applications. It was 
 later released as an open-source project in August 2011. 
+
+how to configure bootstrap? 
+
+  official website: https://getbootstrap.com
+
+click docs options/menu in navigation bar
+
+click download option in left panel.
+
+copy cnd via jsdelivr
+=====================
+ex:
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+
+and paste these two links in html header section.
+
+note:
+  internet connection is must when use CDN (content deliver network)
+
+
