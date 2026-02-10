@@ -94,6 +94,10 @@
 
 			duplicate layer: ctl+j or alt+drag
 
+			merge layer: ctrl + E
+
+			merge all layer: ctrl + shift + e
+
 slice tool & slice select tool:
 
 	use: to open selected any web pages.
@@ -127,5 +131,6 @@ step 8: save
 	
 			
 			
+
 
 
