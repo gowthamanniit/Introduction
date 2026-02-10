@@ -89,7 +89,10 @@
 			color balance : ctrl + b
 			
 			stroke : alt + e + s
-			
+
+			ruler: ctrl + r (scale)
+
+			duplicate layer: ctl+j or alt+drag
 
 slice tool & slice select tool:
 
@@ -124,4 +127,5 @@ step 8: save
 	
 			
 			
+
 
